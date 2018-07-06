@@ -19,6 +19,8 @@ A web proxy implementation that overlays a floating action button over HTTP/HTTP
 
 ## Additional Information
 
-Written as a Heroku-compatible JSP application
-Created by Alon Grinshpoon
-Made with <3 for Routier
+* Written as a Heroku-compatible JSP application
+
+* Created by Alon Grinshpoon
+
+* Made with <3 for Routier
