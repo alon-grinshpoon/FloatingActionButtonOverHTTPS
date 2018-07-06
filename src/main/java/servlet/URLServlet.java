@@ -135,7 +135,7 @@ public class URLServlet extends HttpServlet {
                 "    <link href=\"../dist/mfb.css\" rel=\"stylesheet\">\n" +
                 "    <!-- endbuild -->\n" +
                 "\n" +
-                "    <title>Material floating button. The index.</title>\n" +
+                "    <title>FAB over HTTP/HTTPS Demo</title>\n" +
                 "</head>\n" +
                 "<body>\n" +
                 "\n" +

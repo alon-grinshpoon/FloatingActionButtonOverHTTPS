@@ -7,7 +7,7 @@ A web proxy implementation that overlays a floating action button over HTTP/HTTP
 
 * Material Floating Button by nobitagit: https://github.com/nobitagit/material-floating-button
 
-* Anti-Frame-Braker based on https://stackoverflow.com/questions/8700636/how-to-show-google-com-in-an-iframe/2014541 / http://jsfiddle.net/2gou4yen/2228/
+* Anti-Frame-Breaker based on https://stackoverflow.com/questions/8700636/how-to-show-google-com-in-an-iframe/2014541 / http://jsfiddle.net/2gou4yen/2228/
 
 ## Know Issues
 
